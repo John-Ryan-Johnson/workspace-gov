@@ -1,0 +1,28 @@
+body {
+  background-color: lightgrey;
+}
+h2 {
+  color: red;
+}
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h3 {
+  color: red;
+}
+li {
+  color: black;
+}
+p {
+  color:  black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
